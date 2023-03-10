@@ -205,8 +205,15 @@ h1 {
   margin-left: 4px;
 }
 
-
-
+.shadow_swhow_mini{
+  color: #fff;
+  align-items: center;
+  text-align: center;
+  padding: 10px 0;
+}
+.shadow_swhow_mini a{
+  color: #c10b30;
+}
 
 
 .Setting{
